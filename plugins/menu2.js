@@ -20,9 +20,9 @@ envíame por
 ┌─⊷ *VIDEO/GIF* 
 ▢ Linda noche
 └──────────────`
-const pp = await (await fetch('https://i.ibb.co/qMG1JPY/fg.jpg')).buffer()
+const pp = await (await fetch('https://i.ibb.co/1RS6nJf/Screenshot-20220519-091526.jpg')).buffer()
     
-    conn.sendHydrated(m.chat, m2, '▢ Agromos  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\fg98._\n', pp, 'https://youtube.com/channel/UCYfOaeRkOwMXzLxx11nwecA', 'YouTube', null, null, [
+    conn.sendHydrated(m.chat, m2, '▢ Agromos  ┃ ᴮᴼᵀ\n▢ \fg98._\n', pp, '', 'YouTube', null, null, [
      ['⏍ Info', '/botinfo'],
       ['⌬ Grupos', '/gpdylux']
     ], m)
