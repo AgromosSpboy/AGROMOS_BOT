@@ -147,7 +147,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   //const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './src/avatar_contact.png')
 const pp = await (await fetch('https://i.ibb.co/qMG1JPY/fg.jpg')).buffer()
     
-    conn.sendHydrated(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n', pp, 'https://youtube.com/fg98f', 'YouTube', null, null, [
+    conn.sendHydrated(m.chat, text.trim(), '▢ Agromos  ┃ ᴮᴼᵀ\n▢ fg98._\n', pp, 'https://youtube.com/fg98f', 'YouTube', null, null, [
       ['ꨄ︎ Apoyar', '/donate'],
       ['⏍ Info', '/botinfo'],
       ['✆ Owner', '/owner']
