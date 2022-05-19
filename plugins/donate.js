@@ -6,7 +6,7 @@ puedes donar si quieres ayudar a mantener el bot activo
 ▢ *PayPal*
 • *Link :* 
 
-
+https://paypal.me/dotacionesdelbotagro?country.x=MX&locale.x=es_XC
 • 
 
 _Al donar consigues_  *Premium* 
