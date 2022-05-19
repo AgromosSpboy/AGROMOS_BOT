@@ -9,7 +9,7 @@ global.owner = [
 ] //Numeros de owner 
 
 global.mods = [] // Moderadores
-global.prems = ['50489079501', '5219631769130', '573125484672']  // El usuario Premium tiene diamantes ilimitado
+global.prems = ['595983186566', '5219631769130', '573125484672']  // El usuario Premium tiene diamantes ilimitado
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -33,8 +33,8 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Agromos Bot'
-global.author = '@fg98._'
-global.igfg = '\n▢ Sígueme en Youtube fg98._\n' 
+global.author = '@AGROMOS._'
+global.igfg = '\n▢ Sígueme en Youtube AGROMOS YT._\n' 
 
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
