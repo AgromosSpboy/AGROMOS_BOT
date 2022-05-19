@@ -145,7 +145,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     
   //const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './src/avatar_contact.png')
-const pp = await (await fetch('[url=https://ibb.co/Wz11NWH][img]https://i.ibb.co/Wz11NWH/Screenshot-20220519-194503-Whats-App-Business.jpg[/img][/url]')).buffer()
+const pp = await (await fetch('https://i.ibb.co/1RS6nJf/Screenshot-20220519-091526.jpg')).buffer()
     
     conn.sendHydrated(m.chat, text.trim(), '▢ Agromos  ┃ ᴮᴼᵀ\n▢ AGROMOS YT._\n', pp, 'https://youtube.com/fg98f', 'YouTube', null, null, [
       ['ꨄ︎ Apoyar', '/donate'],
