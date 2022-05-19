@@ -24,7 +24,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-  ────  *DyLux  ┃ ᴮᴼᵀ*  ────
+  ────  *Agromos  ┃ ᴮᴼᵀ*  ────
 
 👋🏻 _Hola_ *%name*
 
@@ -33,9 +33,8 @@ const defaultMenu = {
 📊 Database: %rtotalreg de %totalreg
 ─────────────
 ▢ Crea tu propio bot 
-• https://youtu.be/jeXHB0IIzCM
-▢ Descarga *FGWhatsApp*
-• https://fgwhatsapp.ml
+• https://youtube.com/channel/UCYfOaeRkOwMXzLxx11nwecA
+▢ Descarga 
 ─────────────
 %readmore
 Ⓟ = Premium
